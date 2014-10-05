@@ -3,6 +3,7 @@ Racebaan
 
 Een poortje met startlichten, waar de raceauto's in rijden en dat bepaalt wie de winnaar is.
 
+![Samenvatting](https://raw.githubusercontent.com/nerdlandbe/racebaan/master/howto/samenvatting.jpg)
 
 # Schakeling
 - Zie onderstaand schema voor de verbindingen:
